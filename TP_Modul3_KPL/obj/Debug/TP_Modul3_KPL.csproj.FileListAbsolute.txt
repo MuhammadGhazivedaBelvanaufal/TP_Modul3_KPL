@@ -1,0 +1,10 @@
+E:\KonstruksiPL\TP_Modul3_KPL\TP_Modul3_KPL\bin\Debug\TP_Modul3_KPL.exe.config
+E:\KonstruksiPL\TP_Modul3_KPL\TP_Modul3_KPL\bin\Debug\TP_Modul3_KPL.exe
+E:\KonstruksiPL\TP_Modul3_KPL\TP_Modul3_KPL\bin\Debug\TP_Modul3_KPL.pdb
+E:\KonstruksiPL\TP_Modul3_KPL\TP_Modul3_KPL\obj\Debug\TP_Modul3_KPL.csproj.AssemblyReference.cache
+E:\KonstruksiPL\TP_Modul3_KPL\TP_Modul3_KPL\obj\Debug\TP_Modul3_KPL.Form1.resources
+E:\KonstruksiPL\TP_Modul3_KPL\TP_Modul3_KPL\obj\Debug\TP_Modul3_KPL.Properties.Resources.resources
+E:\KonstruksiPL\TP_Modul3_KPL\TP_Modul3_KPL\obj\Debug\TP_Modul3_KPL.csproj.GenerateResource.cache
+E:\KonstruksiPL\TP_Modul3_KPL\TP_Modul3_KPL\obj\Debug\TP_Modul3_KPL.csproj.CoreCompileInputs.cache
+E:\KonstruksiPL\TP_Modul3_KPL\TP_Modul3_KPL\obj\Debug\TP_Modul3_KPL.exe
+E:\KonstruksiPL\TP_Modul3_KPL\TP_Modul3_KPL\obj\Debug\TP_Modul3_KPL.pdb
